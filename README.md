@@ -20,10 +20,10 @@ Users can also **download filtered datasets** for further analysis, facilitating
 ## Visuals from the Dashboard
 
 ### Sample Dashboard View
-![Life Expectancy Dashboard](1.png)
+![Life Expectancy Dashboard](1 (2).png)
 
 ### Example Visualization
-![Geographical Map](2.png)
+![Geographical Map](2 (2).png)
 
 ## How to Use the Dashboard
 1. **Clone the Repository**:
